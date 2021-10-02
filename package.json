@@ -1,0 +1,20 @@
+{
+  "name": "console-app",
+  "version": "1.0.0",
+  "description": "A simple console app",
+  "main": "app.js",
+  "dependencies": {
+    "jest": "^27.2.4",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Zuzanna Brzozowska",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zuzabrzozowska/console-app.git"
+  }
+}
