@@ -1,6 +1,6 @@
 # Console app in Node.js
 
-### node app.js
+### run `node app.js` in the root of the project to run the program
 
 - checks current stock status
 - lets you add items with "I + number", e.g. "I5"
